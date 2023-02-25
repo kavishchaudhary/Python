@@ -43,6 +43,8 @@ Data Dictionary
 •	price_range- price range of the phone(4 class)
 
 
+
+
 INSIGHTS
 
 •	ram(predictor)- This variable has a very high correlation with the target variable.
